@@ -8,6 +8,13 @@
   ],
   "ignore": [
     "**/.*",
+    "examples",
+    "grunts",
+    "lang",
+    "meteor",
+    "plugin",
+    "src",
+    "test",
     "node_modules",
     "bower_components",
     "test",
